@@ -1,28 +1,64 @@
-# TelephoneDirectory
+Telephone Directory
+------------------------------
+It is a fully responsive website developed using bootstrap3 where users can create their account, login to their account and see the content of the website.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
+Features
+------------------------------
+* User can create their account `Sign up`.
+* User can login to thier account `Log in`.
+* User can also create new account or login to existing account.
+* User can see information about diffrent branches like `CSE, ME, EEE, ECE`.
+* User can send their query using their email.
+* All the user data is stored in firebase.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Validations
+------------------------------
+* All the validation are done when user register `sign up form`.
+* All the validation are also done when user log in `login form`.
+* If user login to their account using wrong email or password then there will be a pop for login error otherwise successfully log in pop up will be there.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Requirements
+------------------------------
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+* ``Bootstrap3``
+* ``Firebase``
+* ``Html5``
+* ``CSS``
+* ``Java Script``
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Preview
+------------------------------
 
-## Running end-to-end tests
+**Home View1**
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+![Home Page View1](https://i.imgur.com/2Aq5WaA.jpg)
 
-## Further help
+**Home View2**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# TelephoneDirectory
+![Home Page View2](https://i.imgur.com/EdrVqdy.png)
+
+**Register**
+
+![Sign up Modal view](https://i.imgur.com/OsBpYhr.png)
+
+**Login**
+
+![Login Modal View](https://i.imgur.com/Bvx660m.png)
+
+**Bottom View**
+
+![Bottom View](https://i.imgur.com/UVDrNge.png)
+
+**Firebase**
+
+![Users View](https://i.imgur.com/1l5h7jS.png)
+
+**Firebase Data**
+
+![Firebase database view](https://i.imgur.com/0XIExhk.png)
+
+
