@@ -1,31 +1,24 @@
 Telephone Directory
 ------------------------------
-It is a fully responsive website developed using bootstrap3 where users can create their account, login to their account and see the content of the website.
+It is a fully responsive website developed using Angular8 where users can search a person in table by person's name or person's mobile number.
 
 Features
 ------------------------------
-* User can create their account `Sign up`.
-* User can login to thier account `Log in`.
-* User can also create new account or login to existing account.
-* User can see information about diffrent branches like `CSE, ME, EEE, ECE`.
-* User can send their query using their email.
-* All the user data is stored in firebase.
-
-
-
-Validations
-------------------------------
-* All the validation are done when user register `sign up form`.
-* All the validation are also done when user log in `login form`.
-* If user login to their account using wrong email or password then there will be a pop for login error otherwise successfully log in pop up will be there.
-
+* User can serch person by `Person Name`.
+* User can search person by `Person mobile number`.
+* User can also save data of person to local storage after clicking on particular person.
+* User can see information of clicked person after refreshing the window.
+* User can edit and save person's mobile number by clicking on `Edit Mobile` and `Save Mobile` buttons.
+* User can see the updated mobile number in the list as well as in the user's detail section.
 
 Requirements
 ------------------------------
 
-* ``Bootstrap3``
-* ``Firebase``
-* ``Html5``
+* ``Angular8``
+* ``AngularCLI``
+* ``NPM``
+* ``Local Storage``
+* ``Node``
 * ``CSS``
 * ``Java Script``
 
@@ -33,9 +26,9 @@ Requirements
 Preview
 ------------------------------
 
-**Home View1**
+**Home View1 showing details of first item in list**
 
-![Home Page View1](https://i.imgur.com/2Aq5WaA.jpg)
+![Home Page View1](https://imgur.com/UNE0kqa.jpg)
 
 **Home View2**
 
