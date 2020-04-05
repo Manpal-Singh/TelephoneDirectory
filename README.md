@@ -26,32 +26,36 @@ Requirements
 Preview
 ------------------------------
 
-**Home View1 showing details of first item in list**
+**Home View1 showing details of first person in list**
 
 ![Home Page View1](https://imgur.com/UNE0kqa.jpg)
 
-**Home View2**
+**Home View2 showing details of selected person in list**
 
-![Home Page View2](https://i.imgur.com/EdrVqdy.png)
+![Home Page View2](https://imgur.com/oxZFQxj.jpg)
 
-**Register**
+**Search Person by name**
 
-![Sign up Modal view](https://i.imgur.com/OsBpYhr.png)
+![Sign up Modal view](https://imgur.com/SsJxRZg.jpg)
 
-**Login**
+**Search Person by mobile number**
 
-![Login Modal View](https://i.imgur.com/Bvx660m.png)
+![Login Modal View](https://imgur.com/8KwxZ5A.jpg)
 
-**Bottom View**
+**Edit mobile number of person Manpal**
 
-![Bottom View](https://i.imgur.com/UVDrNge.png)
+![Bottom View](https://imgur.com/Rc3ZAMt.jpg)
 
-**Firebase**
+**Update mobile number of person Manpal**
 
-![Users View](https://i.imgur.com/1l5h7jS.png)
+![Users View](https://imgur.com/mEQg7ms.jpg)
 
-**Firebase Data**
+**Mobile view1**
 
-![Firebase database view](https://i.imgur.com/0XIExhk.png)
+![Firebase database view](https://imgur.com/LtFlzpf.jpg)
+
+**Mobile view2**
+
+![Firebase database view](https://imgur.com/n4WXRzO.jpg)
 
 
